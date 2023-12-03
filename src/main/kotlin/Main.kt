@@ -3,7 +3,7 @@ fun main() {
 
 fun returnsFalse(): Boolean {
     println("run returnsFalse")
-    return true
+    return false
 }
 
 fun returnsTrue(): Boolean {
